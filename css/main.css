@@ -208,7 +208,7 @@ body {
   flex-direction: column;
 }
 .card-page__title{
-  font-size: 30px;
+  font-size: 25px;
   color: #6a7f5ff4;
 }
 @media (max-width: 767px) {
@@ -336,17 +336,17 @@ body {
 }
 
 p {
-  font-size: 19px;
+  font-size: 14px;
   line-height: 1.2em;
   padding-left: 10px;
 }
 
 @media (max-width: 767px) {
   .card-page__title{
-    font-size: 19px;
+    font-size: 14px;
   }
   p {
-    font-size: 19px;
+    font-size: 14px;
   }
 }
 
